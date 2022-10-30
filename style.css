@@ -1,0 +1,19 @@
+.jump{
+    margin: 1000px;
+    
+padding: 1000px;
+    
+}
+.info{
+    text-decoration: dashed;
+}
+a.info:hover {
+    color: #FFD700; 
+    text-decoration: underline; 
+   }
+
+   a{
+    text-align: center;
+    justify-content:center;
+    text-decoration: dashed;
+   }
